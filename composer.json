@@ -2,6 +2,7 @@
     "name": "WPRedisearch/WPRedisearch",
     "description": "RediSearch plugin for Wordpress",
     "keywords": ["wordpress", "redis", "redisearch"],
+    "type": "wordpress-plugin",
     "homepage": "http://github.com/7kmco/wp-redisearch",
     "license": "MIT",
     "support": {
